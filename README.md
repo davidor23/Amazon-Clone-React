@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React app built using React Context API,React Hooks, React Router, /w Log In/Sign-in functionality :fire: :fire:
+
+## Link to live version - https://clone-e1086.web.app/
 
 ## Available Scripts
 
